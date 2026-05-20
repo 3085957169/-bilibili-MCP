@@ -1,3 +1,4 @@
+<img width="1276" height="800" alt="Snipaste_2026-05-20_16-22-45" src="https://github.com/user-attachments/assets/3b0c3fb5-b0a4-4b8a-8eb7-afc197dd11ca" />
 # Bilibili MCP
 
 通过 MCP (Model Context Protocol) 让 AI 助手搜索 B 站视频、转换成音频并在线播放。
