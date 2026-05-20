@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "music": {
+      "command": "python",
+      "args": ["E:\\claude project\\mcp-music\\server.py"]
+    }
+  }
+}
